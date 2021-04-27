@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola 👋
+Mi nombre es Luis Eduardo Flores Ramírez, soy originario de Acapulco, Guerrero México, desde el 2018 me he interesado en el desarrollo web, desde entonces he venido 
+aprendiendo de manera autodidacta a realizar buenas prácticas de programación, paradigmas entre otras cosas que la universidad no cubria. últimamente me he enfocado
+en el desarrollo frontend utilizando el **framework Angular**, a su vez he venido complementando este framework con otras tecnologías frontend como: **Bootstrap**.
+**Angular Material**, **Angular Flex Layout**, **PrimeNG**.
+
+Actualmente estoy capacitándome en **Node**, **Express**, **JWT** y **MongoDB**, también he trabajado con otras tecnologías como: **PHP** y **MySQL** 
+
+
 
 <!--
 **edflor46/edflor46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

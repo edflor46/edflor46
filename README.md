@@ -1,9 +1,7 @@
 ### Hola Mundo 👋
-Mi nombre es Luis Eduardo Flores Ramírez, soy originario de Acapulco, Guerrero México, a partir del 2018 me he interesado en el desarrollo web, desde entonces he 
-venido aprendiendo de manera autodidacta a realizar buenas prácticas de programación, paradigmas y entre otras cosas que la universidad no cubria. Actualmente utilizo
-manera frecuente tecnologias como **Angular** y **NodeJS**.
-
-También he trabajado con otras tecnologías como: **PHP** y **MySQL** 
+Mi nombre es _special_Luis Eduardo Flores Ramírez_special_, soy originario de Acapulco, Guerrero México, actualmente me encuentro trabajando
+en **Accenture** en el área de **Backend** ocupando el puesto de **Application Development Asocciate**, he trabajado con tecnologías JavaScript, 
+pero últimamente me he enfocado más en Java (Spring, Spring-Boot, JPA, Hibernate, Maven) y con el gestor de base de datos **Oracle**.
 
 
 

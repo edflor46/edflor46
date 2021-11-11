@@ -1,8 +1,8 @@
 ### Hola Mundo 👋
 Mi nombre es Luis Eduardo Flores Ramírez, soy originario de Acapulco🌴💺, Guerrero México, actualmente me encuentro
 trabajando en **Accenture** en el área de **Backend** ocupando el puesto de **Application Development Asocciate**,
-he trabajado con tecnologías JavaScript, pero últimamente me he enfocado más en Java (Spring, Spring-Boot, JPA, 
-Hibernate, Maven) y con el gestor de base de datos **Oracle**. 
+he trabajado con tecnologías JavaScript, pero últimamente me he enfocado más en tecnologías Java (Spring Framework, Spring-Boot, JDBC, JPA, JUnit, Mockito Framework, 
+Hibernate, Maven) asi como virtualizaciones de base de datos **Oracle** utilizando **Docker**. 
 
 
 
